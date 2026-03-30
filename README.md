@@ -120,7 +120,7 @@ This experiment shows that model performance depends heavily on the dataset. Whi
 1. Clone the repository:
 
    ```
-   git clone <your-repo-link>
+   git clone https://github.com/parulg8/ML_Model_Comparison.git
    ```
 2. Navigate to the project folder:
 
